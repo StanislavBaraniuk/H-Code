@@ -1,0 +1,33 @@
+.avatar{
+    background-image: url("../../../../resourse/4.JPG");
+    background-size: contain;
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    width: 100px;
+    height: 85px;
+    background-color: rgba(249,250,251,0.91);
+    border-radius: 100px;
+    border: 1px solid white;
+}
+
+.name {
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Sunflower', sans-serif;
+    font-size: 250%;
+    font-weight: 900;
+    color: #383b3f;
+    letter-spacing: 2px;
+    border-radius: 50px;
+    background-color: whitesmoke;
+}
+
+
+.account {
+    margin-top: 20px;
+    display: grid;
+    background-color: #383b3f;
+    grid-template-columns: 0.2fr 1fr;
+    padding: 20px;
+}

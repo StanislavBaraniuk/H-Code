@@ -1,0 +1,21 @@
+.App {
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-areas: "appHeader"
+                        "middleBlock";
+}
+
+.header {
+    grid-area: appHeader;
+}
+
+.MiddleBlock {
+    grid-area: middleBlock;
+}
+
+
+
+
+

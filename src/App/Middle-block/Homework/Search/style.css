@@ -1,0 +1,21 @@
+
+.search-box {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #383b3f;
+    /*background-color: yellow;*/
+}
+
+.serachBar {
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 95%;
+    height: 50px;
+    outline: none;
+    background-color: whitesmoke;
+    border: none;
+    color: #383b3f;
+    font-family: 'Sunflower', sans-serif;
+    font-size: 25px;
+    border-radius: 25px;
+}
